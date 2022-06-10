@@ -7,8 +7,8 @@
 
 Список роутов:
 
-http://localhost/
-http://localhost/?users=getAlll&page=1
-http://localhost/?users=getUserId&id=6
-http://localhost/?users=add
-http://localhost/?users=newUser
+1) http://localhost/
+2) http://localhost/?users=getAlll&page=1
+3) http://localhost/?users=getUserId&id=6
+4) http://localhost/?users=add
+5) http://localhost/?users=newUser
